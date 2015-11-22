@@ -124,7 +124,7 @@ struct {
 	{   3,     KEY_S        },   // Y/Bomb/secondary
 	{   4,     KEY_D        },   // Z/Bomb/secondary
 	{  25,     KEY_R        },   // Credit
-	{   8,     KEY_Q        },   // Start 1P
+	{   8,     KEY_ENTER    },   // Start 1P
 	{  -1,     -1           } }; // END OF LIST, DO NOT CHANGE
 
 // A "Vulcan nerve pinch" (holding down a specific button combination
